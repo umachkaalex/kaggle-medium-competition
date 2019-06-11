@@ -1,4 +1,4 @@
-This is the solution for this Kaggle competition:
+This is the solution for this Kaggle competition (Top-30 - Alexandr Laskorunsky):
 https://www.kaggle.com/c/how-good-is-your-medium-article
 
 It's in private mode, because the competition is still running.
